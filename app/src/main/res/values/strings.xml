@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Latihan Room</string>
+    <string name="masukan_data">Masukan Data</string>
+    <string name="save_data">Save Data</string>
+</resources>
